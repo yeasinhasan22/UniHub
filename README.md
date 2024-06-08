@@ -1,0 +1,1 @@
+A unified platform for university students, offering TA/RA hiring for faculty, student connections, access to study materials and video lectures, and a marketplace for buying and selling used books and study equipment, all with OTP authentication.
